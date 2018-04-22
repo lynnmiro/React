@@ -1,0 +1,12 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "this is a project lab 4 that contains a basic node js hello world app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Lynn Miro",
+  "license": "ISC"
+}
