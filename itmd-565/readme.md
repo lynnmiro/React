@@ -1,6 +1,5 @@
 # Lynn Miro
 ## ITMD-565-Spring 2018
-![Myself](images/Lynn.jpg "Myself")
 ## Academic Interests
 Information Technology and Management specialization in Web Design and Application Development
 ## Repository Contents
